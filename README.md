@@ -1,8 +1,4 @@
 # mudd-git
-this isrepo
-hjh
+this is repo
 
-
-dfdf
-dfdf
   this is new for git bash by me 
